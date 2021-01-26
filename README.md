@@ -8,12 +8,11 @@ Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
 
+**To do this challenge, you need a basic understanding of HTML and CSS.**
+
 ## My Personal Progress
 
 This challenge is [project #3](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0) as part of Matt Studdert's [16 front-end projects (with designs) to help improve your coding skills](https://dev.to/frontendmentor/16-front-end-projects-with-designs-to-help-improve-your-coding-skills-5ajl).
-
-**To do this challenge, you need a basic understanding of HTML and CSS.**
-
 
 ## Where to find everything
 
